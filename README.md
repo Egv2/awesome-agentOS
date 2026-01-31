@@ -83,6 +83,11 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 ## Productivity & Personal Assistants
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP.
+- [character-ai/Ovi](https://github.com/character-ai/Ovi) - Experimental AI character interaction tool from the Character.ai team.
+- [qwersyk/Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant.
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat with multi-model support.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent that automates computer tasks via natural language.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables designed for real-time transcription and speech processing.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Versatile AI client supporting multiple models for daily productivity.
@@ -98,6 +103,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 ## Data, OCR & Knowledge Graphs
 
+- [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM) - Community-driven education platform transforming study materials into interactive resources.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs to prepare datasets for LLM training.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Comprehensive OCR toolkit supporting 100+ languages and complex layouts.
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - Specialized OCR model for parsing complex tables, forms, and handwriting.
@@ -110,6 +116,9 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 ## Research & Specialized Agents
 
+- [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open-source project using LLMs to translate subtitles across formats.
+- [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server.
 - [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - Hierarchical multi-agent system for deep research and complex task solving.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI hacker designed to find exploits in web applications.
 - [virattt/dexter](https://github.com/virattt/dexter) - Autonomous AI agent specialized in deep financial research and analysis.
