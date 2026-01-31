@@ -8,6 +8,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 - [Agent Frameworks & Runtimes](#agent-frameworks--runtimes)
 - [Web Agents & Browsing](#web-agents--browsing)
+- [Desktop OS & Cloud Platforms](#desktop-os--cloud-platforms)
 - [Visual & Creative AI](#visual--creative-ai)
 - [Audio & Voice AI](#audio--voice-ai)
 - [Developer Tools & Infrastructure](#developer-tools--infrastructure)
@@ -19,6 +20,9 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 ## Agent Frameworks & Runtimes
 
+- [block/goose](https://github.com/block/goose) - On-machine AI agent that automates development tasks from start to finish with MCP support.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Multi-agent simulation framework with Discord, Telegram, and Twitter integration for autonomous agents.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop interface for building customized LLM orchestration flows and AI agents.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Low-code platform for building and deploying AI-powered agents and workflows.
@@ -35,18 +39,25 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - Open-source agentic browser serving as an alternative to proprietary AI browsing tools.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Web interface for running and managing AI agents directly in your browser.
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation with multi-agent workflows.
 - [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) - AI-driven web automation agent utilizing Playwright for intelligent decision-making.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source, LLM-friendly web crawler and scraper for AI data gathering.
 - [MinorJerry/WebVoyager](https://github.com/MinorJerry/WebVoyager) - End-to-end web agent framework powered by large multimodal models.
 - [browserless/browserless](https://github.com/browserless/browserless) - Headless browser deployment platform optimized for Docker and cloud environments.
 - [monteslu/vibe-eyes](https://github.com/monteslu/vibe-eyes) - MCP server that enables LLMs to see and interact with browser-based applications.
 
+## Desktop OS & Cloud Platforms
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet Computer - free, open-source, and self-hostable cloud desktop operating system.
+
 ## Visual & Creative AI
 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Leading creative engine for Stable Diffusion models to generate professional visual media.
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Open-source model for high-quality, realtime AI video generation.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Democratizing efficient video production through open-source video generation models.
+- [MamtaRajpurohit/Cutalyst](https://github.com/MamtaRajpurohit/Cutalyst) - Automated video editing AI that cuts, syncs, and subtitles with one click.
 - [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker) - Tool for creating short-form social media videos using MCP and REST APIs.
+- [shrimbly/node-banana](https://github.com/shrimbly/node-banana) - Free and open-source node-based generative workflow platform.
 - [TripoSR](https://github.com/VAST-AI-Research/TripoSR) - Fast 3D object reconstruction from a single image using state-of-the-art AI.
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - AI-powered image inpainting tool for removing or replacing objects in photos.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Interactive point-based manipulation for precise control over generative images.
@@ -80,9 +91,12 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - Tool for dynamically rendering AI-generated JSON data into user interfaces.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack for desktop automation.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - Educational project for training small-parameter GPT models from scratch.
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - Chat with AI to clone and recreate any website as a modern React app in seconds.
 
 ## Productivity & Personal Assistants
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT clone with Agents, MCP, multi-model support, and enterprise-ready features.
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - Self-hosted AI companion and VTuber platform capable of voice chat, game playing, and real-time interaction.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP.
 - [character-ai/Ovi](https://github.com/character-ai/Ovi) - Experimental AI character interaction tool from the Character.ai team.
