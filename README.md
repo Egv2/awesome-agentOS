@@ -34,6 +34,7 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [open-interpreter/open-interpreter](https://github.com/open-interpreter/open-interpreter) - Open-source AI agent that can execute code on your computer to perform tasks.
 - [huginn/huginn](https://github.com/huginn/huginn) - System for creating agents that monitor and act on your behalf across the web.
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Open agentic framework designed to use computers just like a human.
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - Self-modifying framework from the future - World's first Agentic Modular System (AMS).
 
 ## Web Agents & Browsing
 
@@ -77,6 +78,8 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-source frontier voice AI for advanced audio synthesis.
 - [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) - CLI-based text-to-speech tool utilizing the Kokoro model for multiple languages.
 - [FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) - Large audio language model built for natural, low-latency voice interactions.
+- [nari-labs/dia](https://github.com/nari-labs/dia) - TTS model capable of generating ultra-realistic dialogue in a single pass.
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - Text-to-speech (TTS), speech-to-text (STT), and speech-to-speech (STS) library built on Apple's MLX framework.
 
 ## Developer Tools & Infrastructure
 
@@ -92,6 +95,11 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack for desktop automation.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - Educational project for training small-parameter GPT models from scratch.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - Chat with AI to clone and recreate any website as a modern React app in seconds.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The best agent harness - Meet Sisyphus: The batteries-included agent that codes like you.
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users - v0/Lovable/Replit/Bolt alternative.
+- [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations, powered by Model Context Protocol (MCP).
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for interact with your AI agent - human in the loop.
+- [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - Lightweight local LLM management and interaction toolkit.
 
 ## Productivity & Personal Assistants
 
@@ -127,6 +135,9 @@ Inspired by the [AgentOS](https://github.com/stars/Egv2/lists/agentos) list, thi
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for real-time analytics, stream processing, and RAG.
 - [myriade-ai/myriade](https://github.com/myriade-ai/myriade) - AI-native data platform for exploring and transforming data warehouses.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory operating system for persistent skill storage in agent systems.
+- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - Super fast graph database using GraphBLAS for GraphRAG and knowledge graphs for LLMs.
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL-native memory layer for LLMs, AI agents, and multi-agent systems.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory system designed for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 
 ## Research & Specialized Agents
 
