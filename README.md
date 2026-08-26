@@ -1,6 +1,6 @@
 # Awesome AgentOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Software platforms that coordinate AI agents with tools, voice, vision, memory, and durable execution as one operating environment.
+> Platforms that coordinate AI agents with tools, voice, vision, and memory.
 
 ## Contents
 
@@ -47,6 +47,9 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [kami](https://github.com/kami-community/kami) - Automating content and outreach with multi-agent coordination for early-stage startups.
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first multi-agent orchestration layer for Claude Code with parallel execution.
 - [nodetool](https://github.com/nodetool-ai/nodetool) - Open-source, agent-first creative workspace with node-based workflows and multi-provider LLM support.
+- [ironclaw](https://github.com/nearai/ironclaw) - Agent OS focused on privacy, security, and extensibility with Rust and WASM.
+- [OpenHarness](https://github.com/HKUDS/OpenHarness) - Open agent harness with a built-in personal agent called Ohmo.
+- [autoresearch](https://github.com/karpathy/autoresearch) - AI agents that run research on single-GPU training automatically.
 
 ## Computer-Use & Desktop Automation
 
@@ -103,6 +106,7 @@ Text-to-speech, speech-to-text, voice assistants, and real-time audio systems.
 - [NeuTTS](https://github.com/neuphonic/neutts) - On-device text-to-speech model by Neuphonic for private voice synthesis.
 - [Fish Speech](https://github.com/fishaudio/fish-speech) - Open-source text-to-speech engine with multilingual voice cloning.
 - [MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - 8-billion parameter text-to-speech model for highly emotive voice generation.
+- [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) - TTS model optimized for long-form Chinese and English content with strong emotion control.
 
 ## Visual & Creative AI
 
@@ -127,6 +131,7 @@ Image generation, video creation, 3D modeling, and visual manipulation tools.
 - [RealWonder](https://github.com/liuwei283/RealWonder) - Real-time physical action-conditioned video generation model.
 - [Streamo](https://github.com/maifoundations/Streamo) - Streaming video instruction tuning framework for continuous video understanding.
 - [Modly](https://github.com/lightningpixel/modly) - Desktop app for generating 3D models from images using local AI.
+- [Z-Image](https://github.com/Tongyi-MAI/Z-Image) - Open-source image generation model from Alibaba's Tongyi team.
 
 ## Developer Tools & Code Assistants
 
@@ -143,6 +148,9 @@ Code editors, coding agents, and development tools.
 - [CodeGraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph that auto-syncs on code changes for multiple AI coding tools.
 - [Persona](https://github.com/runtypelabs/persona) - Toolkit for creating agentic front-end experiences for the web with WebMCP support.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Multi-agent coding orchestration platform for parallel AI-assisted development.
+- [sandcastle](https://github.com/mattpocock/sandcastle) - Sandbox for testing and developing Claude Code skills.
+- [OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source coding agent for VS Code powered by CopilotKit.
+- [Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code that debate and synthesize solutions.
 
 ## LLM Infrastructure & Model Serving
 
@@ -154,6 +162,7 @@ Model hosting, fine-tuning, API gateways, and inference optimization.
 - [LLMFit](https://github.com/AlexsJones/llmfit) - Tool for discovering hundreds of models across providers to find what runs on your hardware.
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
+- [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed LLM serving for local deployment with CPU/GPU heterogeneous inference.
 
 ## Security & Offensive AI
 
@@ -166,6 +175,7 @@ Penetration testing, red teaming, vulnerability scanning, and security tools.
 - [OneCLI](https://github.com/onecli/onecli) - Open-source credential vault for AI agents that injects API keys transparently.
 - [Strix](https://github.com/usestrix/strix) - Open-source AI tool for finding and fixing application vulnerabilities.
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills that detects vulnerabilities and malicious patterns.
+- [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents with specialized roles.
 
 ## Data, Memory & Knowledge
 
@@ -209,6 +219,7 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Omi](https://github.com/BasedHardware/omi) - AI wearable device for real-time transcription and speech processing.
 - [Khoj](https://github.com/khoj-ai/khoj) - AI second brain for searching documents, the web, and building custom agents.
 - [Eigent](https://github.com/eigent-ai/eigent) - Open-source coworker desktop application for individual productivity.
+- [ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Open-source multimodal AI platform with local LLM, voice, vision, and code execution.
 - [Jan](https://github.com/janhq/jan) - Open-source alternative to ChatGPT that runs offline on your machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted web interface for interacting with various LLMs.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
