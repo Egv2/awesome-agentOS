@@ -223,6 +223,7 @@ Chat interfaces, personal AI assistants, and productivity tools.
 - [Jan](https://github.com/janhq/jan) - Open-source alternative to ChatGPT that runs offline on your machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted web interface for interacting with various LLMs.
 - [Agentic Inbox](https://github.com/cloudflare/agentic-inbox) - Self-hosted email client with an AI agent, running on Cloudflare Workers.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord, and Matrix.
 
 ## MCP & Tool Integration
 
