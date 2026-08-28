@@ -162,6 +162,7 @@ Model hosting, fine-tuning, API gateways, and inference optimization.
 - [LLMFit](https://github.com/AlexsJones/llmfit) - Tool for discovering hundreds of models across providers to find what runs on your hardware.
 - [Headroom](https://github.com/headroomlabs-ai/headroom) - Tool for compressing tool outputs, logs, files, and RAG chunks before they reach the LLM.
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks free tiers of 28 LLM providers behind a single endpoint with smart routing and failover.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Connects supported AI clients to 2,000+ models and APIs through a provider-agnostic CLI, Responses-compatible endpoint, and local MCP bridge.
 - [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed LLM serving for local deployment with CPU/GPU heterogeneous inference.
 
 ## Security & Offensive AI
