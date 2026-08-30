@@ -50,6 +50,7 @@ Frameworks for building, deploying, and managing multi-agent systems.
 - [ironclaw](https://github.com/nearai/ironclaw) - Agent OS focused on privacy, security, and extensibility with Rust and WASM.
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) - Open agent harness with a built-in personal agent called Ohmo.
 - [autoresearch](https://github.com/karpathy/autoresearch) - AI agents that run research on single-GPU training automatically.
+- [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Builds portable agent and team packages and routes them across supported coding hosts with local-first data, MCP and A2A boundaries, and verification gates.
 
 ## Computer-Use & Desktop Automation
 
